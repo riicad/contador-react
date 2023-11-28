@@ -1,0 +1,26 @@
+.container{
+  border: 2px solid #fff;
+  margin: 50px 200px;
+  text-align: center;
+  color: #fff;
+  font-size: 65px;
+}
+
+.container button{
+  padding: 20px 90px;
+  margin: 10px;
+  border: none;
+  font-size: 50px;
+  background: transparent;
+  cursor: pointer;
+  color: #fff;
+}
+.container h1{
+  margin-top: 12px;
+}
+
+body{
+  background: linear-gradient(purple, black);
+  height: 100vh;
+  display: block;
+}
