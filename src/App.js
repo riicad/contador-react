@@ -20,9 +20,8 @@ function App() {
               <h1>CONTADOR</h1>
               <p id="result">{numero}</p>
 
-                <button onClick={diminuir}>-</button>
-                <button onClick={aumentar}>+</button>
-
+              <button onClick={diminuir}>-</button>
+              <button onClick={aumentar}>+</button>
 
             </div>
         </section>
